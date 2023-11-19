@@ -1,4 +1,5 @@
 #Jokes Fetching App 🤣📱
+
 Welcome to the Jokes Fetching App repository! This Android application, built with Kotlin, Ktor, and Jetpack Compose, brings laughter to your fingertips. Explore jokes from a remote server with a delightful user interface.
 
 Technology Stack
